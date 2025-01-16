@@ -8,7 +8,7 @@
 
 ## 3. Ejecutar con el comando: php artisan serve
 
-## 4. Abrir la siguente URL en POSTMAN: http://127.0.0.1:8000/api/locations
+## 4. Abrir la siguiente URL en POSTMAN: http://127.0.0.1:8000/api/locations
 
 ## 5. Enviar en los headers la siguiente llave API-Key : mi_clave_secreta
 
